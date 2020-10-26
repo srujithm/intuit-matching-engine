@@ -1,0 +1,25 @@
+Employee_Id,First_Name,Last_Name,Employment_Type,Hire_Date,Termination_Date,Termination_Status,Termination_Reason,Leave_Status,Leave_Type
+8888888,Fname8,Lname8,F,12/10/07,,,,TRUE,Regulatory > Family Medical Leave Act
+83542,RAJKUMAR,RAMAKRISHNAN,F,2/22/10,,,,,
+85332,ABHINIT,KUMAR,F,10/18/10,,,,,
+87632,JASMIN,VILLA,P,8/22/11,,,,,
+109260,AMOL,PANTVAIDYA,F,6/8/15,,,,,
+99999999,Fname9,Lname9,F,10/13/14,,,,TRUE,Regulatory > Uncertified Medical Leave
+144391,VIDHI,BHATT,F,1/30/17,,,,,
+155024,GREGORY,KNOBLAUCH,F,7/24/17,,,,,
+111111,Fname 1,Lname 1,F,10/1/18,11/20/19,TRUE,Voluntary>Resignation,,
+184713,VARSHA,VENKATESH,F,3/27/17,,,,,
+195181,GARRY,BULLOCK,F,6/25/18,,,,,
+196446,IAN,PENTLAND,F,7/10/18,,,,,
+199383,CHANTAL,EVETT,F,8/28/17,,,,,
+270559,REBECCA,SYRIA,F,1/6/19,,,,,
+271635,DAVID,MATZ,F,1/7/19,,,,,
+2222222,Fname 2,Lname 2,F,10/15/19,10/16/19,TRUE,Voluntary>Resignation,,
+3333333,Fname 3,Lname 3,F,10/15/19,10/29/19,TRUE,Voluntary>Resignation,,
+44444,Fname 4,Lname 4,F,10/7/19,10/8/19,TRUE,Voluntary>Resignation,,
+55555,Fname 5,Lname 5,F,,11/20/19,TRUE,Voluntary>Resignation,,
+317014,ARISH,DHINGRA,F,3/11/20,,,,,
+10101010,Fname10,Lname10,F,1/10/20, ,,,TRUE,Regulatory > Workers Compensation
+6666666,Fname6,Lname 6,F,1/10/20,1/23/20,TRUE,Voluntary>Resignation,,
+7777777,Fname7,Lname 7,F,1/24/20,1/25/20,TRUE,Death,,
+7677777,Fname10,Lname 10,F,1/24/20,1/25/20,TRUE,Death,,

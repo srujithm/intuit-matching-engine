@@ -1,0 +1,15 @@
+.menu-bar {
+    height: 3rem;
+    background-color: rgb(121, 83, 156);
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+
+    .menu-item {
+        cursor: pointer;
+        padding: 1rem;
+    }
+}

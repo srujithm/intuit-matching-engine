@@ -1,0 +1,25 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    left: 40%;
+    bottom: 10%;
+    
+    span {
+        color: black;
+        float: left;
+        padding: 8px 16px;
+        text-decoration: none;
+        cursor: pointer;
+
+        &.active {
+            background-color: rgb(121, 83, 156);
+            color: white;
+        }
+
+        &:hover:not(.active) {
+            background-color: #ddd
+        }
+    }
+}
